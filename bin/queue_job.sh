@@ -7,6 +7,12 @@
 #PBS -M sukrit@uga.edu 
 #PBS -m ae
 
+
+module load java/jdk1.8.0_20
+
+module load octave/4.0.3
+
+
 cd $PBS_O_WORKDIR
 touch "filename"
  
