@@ -1,0 +1,1429 @@
+
+K = 2, Run (1,1,1): fitness => -59.79
+K = 2, Run (1,1,2): fitness => -59.42
+K = 2, Run (1,1,3): fitness => -59.06
+K = 2, Run (1,1,4): fitness => -58.81
+K = 2, Run (1,1,5): fitness => -58.66
+
+K = 2, Run (1,2,1): fitness => -59.34
+K = 2, Run (1,2,2): fitness => -59.05
+K = 2, Run (1,2,3): fitness => -58.81
+K = 2, Run (1,2,4): fitness => -58.66
+K = 2, Run (1,2,5): fitness => -58.66
+
+K = 2, Run (1,3,1): fitness => -58.91
+K = 2, Run (1,3,2): fitness => -58.73
+K = 2, Run (1,3,3): fitness => -58.66
+K = 2, Run (1,3,4): fitness => -58.66
+K = 2, Run (1,3,5): fitness => -58.66
+
+K = 2, Run (1,4,1): fitness => -58.66
+K = 2, Run (1,4,2): fitness => -58.66
+K = 2, Run (1,4,3): fitness => -58.66
+K = 2, Run (1,4,4): fitness => -58.66
+K = 2, Run (1,4,5): fitness => -58.66
+
+K = 2, Run (1,5,1): fitness => -58.66
+K = 2, Run (1,5,2): fitness => -58.66
+K = 2, Run (1,5,3): fitness => -58.66
+K = 2, Run (1,5,4): fitness => -58.66
+K = 2, Run (1,5,5): fitness => -58.66
+
+K = 2, Run (1,6,1): fitness => -58.66
+K = 2, Run (1,6,2): fitness => -58.66
+K = 2, Run (1,6,3): fitness => -58.66
+K = 2, Run (1,6,4): fitness => -58.66
+K = 2, Run (1,6,5): fitness => -58.66
+
+K = 2, Run (1,7,1): fitness => -58.66
+K = 2, Run (1,7,2): fitness => -58.66
+K = 2, Run (1,7,3): fitness => -58.66
+K = 2, Run (1,7,4): fitness => -58.66
+K = 2, Run (1,7,5): fitness => -58.66
+
+K = 2, Run (1,8,1): fitness => -58.66
+K = 2, Run (1,8,2): fitness => -58.66
+K = 2, Run (1,8,3): fitness => -58.66
+K = 2, Run (1,8,4): fitness => -58.66
+K = 2, Run (1,8,5): fitness => -58.66
+
+K = 2, Run (1,9,1): fitness => -58.66
+K = 2, Run (1,9,2): fitness => -58.66
+K = 2, Run (1,9,3): fitness => -58.66
+K = 2, Run (1,9,4): fitness => -58.66
+K = 2, Run (1,9,5): fitness => -58.66
+
+K = 2, Run (1,10,1): fitness => -58.66
+K = 2, Run (1,10,2): fitness => -58.66
+K = 2, Run (1,10,3): fitness => -58.66
+K = 2, Run (1,10,4): fitness => -58.66
+K = 2, Run (1,10,5): fitness => -58.66
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -Inf
+K = 2, Run (2,1,5): fitness => -57.40
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -Inf
+K = 2, Run (2,2,4): fitness => -57.40
+K = 2, Run (2,2,5): fitness => -57.40
+
+K = 2, Run (2,3,1): fitness => -Inf
+K = 2, Run (2,3,2): fitness => -Inf
+K = 2, Run (2,3,3): fitness => -57.40
+K = 2, Run (2,3,4): fitness => -57.40
+K = 2, Run (2,3,5): fitness => -57.40
+
+K = 2, Run (2,4,1): fitness => -57.40
+K = 2, Run (2,4,2): fitness => -57.40
+K = 2, Run (2,4,3): fitness => -57.40
+K = 2, Run (2,4,4): fitness => -57.40
+K = 2, Run (2,4,5): fitness => -57.40
+
+K = 2, Run (2,5,1): fitness => -57.40
+K = 2, Run (2,5,2): fitness => -57.40
+K = 2, Run (2,5,3): fitness => -57.40
+K = 2, Run (2,5,4): fitness => -57.40
+K = 2, Run (2,5,5): fitness => -57.40
+
+K = 2, Run (2,6,1): fitness => -57.40
+K = 2, Run (2,6,2): fitness => -57.40
+K = 2, Run (2,6,3): fitness => -57.40
+K = 2, Run (2,6,4): fitness => -57.40
+K = 2, Run (2,6,5): fitness => -57.40
+
+K = 2, Run (2,7,1): fitness => -57.40
+K = 2, Run (2,7,2): fitness => -57.40
+K = 2, Run (2,7,3): fitness => -57.40
+K = 2, Run (2,7,4): fitness => -57.40
+K = 2, Run (2,7,5): fitness => -57.40
+
+K = 2, Run (2,8,1): fitness => -57.40
+K = 2, Run (2,8,2): fitness => -57.40
+K = 2, Run (2,8,3): fitness => -57.40
+K = 2, Run (2,8,4): fitness => -57.40
+K = 2, Run (2,8,5): fitness => -57.40
+
+K = 2, Run (2,9,1): fitness => -57.40
+K = 2, Run (2,9,2): fitness => -57.40
+K = 2, Run (2,9,3): fitness => -57.40
+K = 2, Run (2,9,4): fitness => -57.40
+K = 2, Run (2,9,5): fitness => -57.40
+
+K = 2, Run (2,10,1): fitness => -57.40
+K = 2, Run (2,10,2): fitness => -57.40
+K = 2, Run (2,10,3): fitness => -57.40
+K = 2, Run (2,10,4): fitness => -57.40
+K = 2, Run (2,10,5): fitness => -57.40
+
+#-57.40
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -56.86
+K = 2, Run (1,1,4): fitness => -56.68
+K = 2, Run (1,1,5): fitness => -56.58
+
+K = 2, Run (1,2,1): fitness => -57.06
+K = 2, Run (1,2,2): fitness => -56.85
+K = 2, Run (1,2,3): fitness => -56.68
+K = 2, Run (1,2,4): fitness => -56.58
+K = 2, Run (1,2,5): fitness => -56.58
+
+K = 2, Run (1,3,1): fitness => -56.75
+K = 2, Run (1,3,2): fitness => -56.62
+K = 2, Run (1,3,3): fitness => -56.58
+K = 2, Run (1,3,4): fitness => -56.58
+K = 2, Run (1,3,5): fitness => -56.58
+
+K = 2, Run (1,4,1): fitness => -56.58
+K = 2, Run (1,4,2): fitness => -56.58
+K = 2, Run (1,4,3): fitness => -56.58
+K = 2, Run (1,4,4): fitness => -56.58
+K = 2, Run (1,4,5): fitness => -56.58
+
+K = 2, Run (1,5,1): fitness => -56.58
+K = 2, Run (1,5,2): fitness => -56.58
+K = 2, Run (1,5,3): fitness => -56.58
+K = 2, Run (1,5,4): fitness => -56.58
+K = 2, Run (1,5,5): fitness => -56.58
+
+K = 2, Run (1,6,1): fitness => -56.58
+K = 2, Run (1,6,2): fitness => -56.58
+K = 2, Run (1,6,3): fitness => -56.58
+K = 2, Run (1,6,4): fitness => -56.58
+K = 2, Run (1,6,5): fitness => -56.58
+
+K = 2, Run (1,7,1): fitness => -56.58
+K = 2, Run (1,7,2): fitness => -56.58
+K = 2, Run (1,7,3): fitness => -56.58
+K = 2, Run (1,7,4): fitness => -56.58
+K = 2, Run (1,7,5): fitness => -56.58
+
+K = 2, Run (1,8,1): fitness => -56.58
+K = 2, Run (1,8,2): fitness => -56.58
+K = 2, Run (1,8,3): fitness => -56.58
+K = 2, Run (1,8,4): fitness => -56.58
+K = 2, Run (1,8,5): fitness => -56.58
+
+K = 2, Run (1,9,1): fitness => -56.58
+K = 2, Run (1,9,2): fitness => -56.58
+K = 2, Run (1,9,3): fitness => -56.58
+K = 2, Run (1,9,4): fitness => -56.58
+K = 2, Run (1,9,5): fitness => -56.58
+
+K = 2, Run (1,10,1): fitness => -56.58
+K = 2, Run (1,10,2): fitness => -56.58
+K = 2, Run (1,10,3): fitness => -56.58
+K = 2, Run (1,10,4): fitness => -56.58
+K = 2, Run (1,10,5): fitness => -56.58
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -Inf
+K = 2, Run (2,1,5): fitness => -60.99
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -Inf
+K = 2, Run (2,2,4): fitness => -60.99
+K = 2, Run (2,2,5): fitness => -60.99
+
+K = 2, Run (2,3,1): fitness => -Inf
+K = 2, Run (2,3,2): fitness => -Inf
+K = 2, Run (2,3,3): fitness => -60.99
+K = 2, Run (2,3,4): fitness => -60.99
+K = 2, Run (2,3,5): fitness => -60.99
+
+K = 2, Run (2,4,1): fitness => -60.99
+K = 2, Run (2,4,2): fitness => -60.99
+K = 2, Run (2,4,3): fitness => -60.99
+K = 2, Run (2,4,4): fitness => -60.99
+K = 2, Run (2,4,5): fitness => -60.99
+
+K = 2, Run (2,5,1): fitness => -60.99
+K = 2, Run (2,5,2): fitness => -60.99
+K = 2, Run (2,5,3): fitness => -60.99
+K = 2, Run (2,5,4): fitness => -60.99
+K = 2, Run (2,5,5): fitness => -60.99
+
+K = 2, Run (2,6,1): fitness => -60.99
+K = 2, Run (2,6,2): fitness => -60.99
+K = 2, Run (2,6,3): fitness => -60.99
+K = 2, Run (2,6,4): fitness => -60.99
+K = 2, Run (2,6,5): fitness => -60.99
+
+K = 2, Run (2,7,1): fitness => -60.99
+K = 2, Run (2,7,2): fitness => -60.99
+K = 2, Run (2,7,3): fitness => -60.99
+K = 2, Run (2,7,4): fitness => -60.99
+K = 2, Run (2,7,5): fitness => -60.99
+
+K = 2, Run (2,8,1): fitness => -60.99
+K = 2, Run (2,8,2): fitness => -60.99
+K = 2, Run (2,8,3): fitness => -60.99
+K = 2, Run (2,8,4): fitness => -60.99
+K = 2, Run (2,8,5): fitness => -60.99
+
+K = 2, Run (2,9,1): fitness => -60.99
+K = 2, Run (2,9,2): fitness => -60.99
+K = 2, Run (2,9,3): fitness => -60.99
+K = 2, Run (2,9,4): fitness => -60.99
+K = 2, Run (2,9,5): fitness => -60.99
+
+K = 2, Run (2,10,1): fitness => -60.99
+K = 2, Run (2,10,2): fitness => -60.99
+K = 2, Run (2,10,3): fitness => -60.99
+K = 2, Run (2,10,4): fitness => -60.99
+K = 2, Run (2,10,5): fitness => -60.99
+
+#-56.58
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -61.79
+K = 2, Run (1,1,4): fitness => -61.34
+K = 2, Run (1,1,5): fitness => -61.17
+
+K = 2, Run (1,2,1): fitness => -62.24
+K = 2, Run (1,2,2): fitness => -61.68
+K = 2, Run (1,2,3): fitness => -61.34
+K = 2, Run (1,2,4): fitness => -61.17
+K = 2, Run (1,2,5): fitness => -61.17
+
+K = 2, Run (1,3,1): fitness => -61.45
+K = 2, Run (1,3,2): fitness => -61.25
+K = 2, Run (1,3,3): fitness => -61.17
+K = 2, Run (1,3,4): fitness => -61.17
+K = 2, Run (1,3,5): fitness => -61.17
+
+K = 2, Run (1,4,1): fitness => -61.17
+K = 2, Run (1,4,2): fitness => -61.17
+K = 2, Run (1,4,3): fitness => -61.17
+K = 2, Run (1,4,4): fitness => -61.17
+K = 2, Run (1,4,5): fitness => -61.17
+
+K = 2, Run (1,5,1): fitness => -61.17
+K = 2, Run (1,5,2): fitness => -61.17
+K = 2, Run (1,5,3): fitness => -61.17
+K = 2, Run (1,5,4): fitness => -61.17
+K = 2, Run (1,5,5): fitness => -61.17
+
+K = 2, Run (1,6,1): fitness => -61.17
+K = 2, Run (1,6,2): fitness => -61.17
+K = 2, Run (1,6,3): fitness => -61.17
+K = 2, Run (1,6,4): fitness => -61.17
+K = 2, Run (1,6,5): fitness => -61.17
+
+K = 2, Run (1,7,1): fitness => -61.17
+K = 2, Run (1,7,2): fitness => -61.17
+K = 2, Run (1,7,3): fitness => -61.17
+K = 2, Run (1,7,4): fitness => -61.17
+K = 2, Run (1,7,5): fitness => -61.17
+
+K = 2, Run (1,8,1): fitness => -61.17
+K = 2, Run (1,8,2): fitness => -61.17
+K = 2, Run (1,8,3): fitness => -61.17
+K = 2, Run (1,8,4): fitness => -61.17
+K = 2, Run (1,8,5): fitness => -61.17
+
+K = 2, Run (1,9,1): fitness => -61.17
+K = 2, Run (1,9,2): fitness => -61.17
+K = 2, Run (1,9,3): fitness => -61.17
+K = 2, Run (1,9,4): fitness => -61.17
+K = 2, Run (1,9,5): fitness => -61.17
+
+K = 2, Run (1,10,1): fitness => -61.17
+K = 2, Run (1,10,2): fitness => -61.17
+K = 2, Run (1,10,3): fitness => -61.17
+K = 2, Run (1,10,4): fitness => -61.17
+K = 2, Run (1,10,5): fitness => -61.17
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -62.55
+K = 2, Run (2,1,5): fitness => -62.28
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -62.55
+K = 2, Run (2,2,4): fitness => -62.28
+K = 2, Run (2,2,5): fitness => -62.28
+
+K = 2, Run (2,3,1): fitness => -62.75
+K = 2, Run (2,3,2): fitness => -62.41
+K = 2, Run (2,3,3): fitness => -62.28
+K = 2, Run (2,3,4): fitness => -62.28
+K = 2, Run (2,3,5): fitness => -62.28
+
+K = 2, Run (2,4,1): fitness => -62.28
+K = 2, Run (2,4,2): fitness => -62.28
+K = 2, Run (2,4,3): fitness => -62.28
+K = 2, Run (2,4,4): fitness => -62.28
+K = 2, Run (2,4,5): fitness => -62.28
+
+K = 2, Run (2,5,1): fitness => -62.28
+K = 2, Run (2,5,2): fitness => -62.28
+K = 2, Run (2,5,3): fitness => -62.28
+K = 2, Run (2,5,4): fitness => -62.28
+K = 2, Run (2,5,5): fitness => -62.28
+
+K = 2, Run (2,6,1): fitness => -62.28
+K = 2, Run (2,6,2): fitness => -62.28
+K = 2, Run (2,6,3): fitness => -62.28
+K = 2, Run (2,6,4): fitness => -62.28
+K = 2, Run (2,6,5): fitness => -62.28
+
+K = 2, Run (2,7,1): fitness => -62.28
+K = 2, Run (2,7,2): fitness => -62.28
+K = 2, Run (2,7,3): fitness => -62.28
+K = 2, Run (2,7,4): fitness => -62.28
+K = 2, Run (2,7,5): fitness => -62.28
+
+K = 2, Run (2,8,1): fitness => -62.28
+K = 2, Run (2,8,2): fitness => -62.28
+K = 2, Run (2,8,3): fitness => -62.28
+K = 2, Run (2,8,4): fitness => -62.28
+K = 2, Run (2,8,5): fitness => -62.28
+
+K = 2, Run (2,9,1): fitness => -62.28
+K = 2, Run (2,9,2): fitness => -62.28
+K = 2, Run (2,9,3): fitness => -62.28
+K = 2, Run (2,9,4): fitness => -62.28
+K = 2, Run (2,9,5): fitness => -62.28
+
+K = 2, Run (2,10,1): fitness => -62.28
+K = 2, Run (2,10,2): fitness => -62.28
+K = 2, Run (2,10,3): fitness => -62.28
+K = 2, Run (2,10,4): fitness => -62.28
+K = 2, Run (2,10,5): fitness => -62.28
+
+#-61.17
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -Inf
+K = 2, Run (1,1,4): fitness => -Inf
+K = 2, Run (1,1,5): fitness => -59.45
+
+K = 2, Run (1,2,1): fitness => -Inf
+K = 2, Run (1,2,2): fitness => -Inf
+K = 2, Run (1,2,3): fitness => -Inf
+K = 2, Run (1,2,4): fitness => -59.45
+K = 2, Run (1,2,5): fitness => -59.45
+
+K = 2, Run (1,3,1): fitness => -Inf
+K = 2, Run (1,3,2): fitness => -Inf
+K = 2, Run (1,3,3): fitness => -59.45
+K = 2, Run (1,3,4): fitness => -59.45
+K = 2, Run (1,3,5): fitness => -59.45
+
+K = 2, Run (1,4,1): fitness => -59.45
+K = 2, Run (1,4,2): fitness => -59.45
+K = 2, Run (1,4,3): fitness => -59.45
+K = 2, Run (1,4,4): fitness => -59.45
+K = 2, Run (1,4,5): fitness => -59.45
+
+K = 2, Run (1,1,1): fitness => -61.43
+K = 2, Run (1,1,2): fitness => -61.13
+K = 2, Run (1,1,3): fitness => -60.84
+K = 2, Run (1,1,4): fitness => -60.73
+K = 2, Run (1,1,5): fitness => -60.71
+
+K = 2, Run (1,2,1): fitness => -60.93
+K = 2, Run (1,2,2): fitness => -60.80
+K = 2, Run (1,2,3): fitness => -60.73
+K = 2, Run (1,2,4): fitness => -60.71
+K = 2, Run (1,2,5): fitness => -60.71
+
+K = 2, Run (1,3,1): fitness => -60.75
+K = 2, Run (1,3,2): fitness => -60.72
+K = 2, Run (1,3,3): fitness => -60.71
+K = 2, Run (1,3,4): fitness => -60.71
+K = 2, Run (1,3,5): fitness => -60.71
+
+K = 2, Run (1,4,1): fitness => -60.71
+K = 2, Run (1,4,2): fitness => -60.71
+K = 2, Run (1,4,3): fitness => -60.71
+K = 2, Run (1,4,4): fitness => -60.71
+K = 2, Run (1,4,5): fitness => -60.71
+
+K = 2, Run (1,5,1): fitness => -60.71
+K = 2, Run (1,5,2): fitness => -60.71
+K = 2, Run (1,5,3): fitness => -60.71
+K = 2, Run (1,5,4): fitness => -60.71
+K = 2, Run (1,5,5): fitness => -60.71
+
+K = 2, Run (1,6,1): fitness => -60.71
+K = 2, Run (1,6,2): fitness => -60.71
+K = 2, Run (1,6,3): fitness => -60.71
+K = 2, Run (1,6,4): fitness => -60.71
+K = 2, Run (1,6,5): fitness => -60.71
+
+K = 2, Run (1,7,1): fitness => -60.71
+K = 2, Run (1,7,2): fitness => -60.71
+K = 2, Run (1,7,3): fitness => -60.71
+K = 2, Run (1,7,4): fitness => -60.71
+K = 2, Run (1,7,5): fitness => -60.71
+
+K = 2, Run (1,8,1): fitness => -60.71
+K = 2, Run (1,8,2): fitness => -60.71
+K = 2, Run (1,8,3): fitness => -60.71
+K = 2, Run (1,8,4): fitness => -60.71
+K = 2, Run (1,8,5): fitness => -60.71
+
+K = 2, Run (1,9,1): fitness => -60.71
+K = 2, Run (1,9,2): fitness => -60.71
+K = 2, Run (1,9,3): fitness => -60.71
+K = 2, Run (1,9,4): fitness => -60.71
+K = 2, Run (1,9,5): fitness => -60.71
+
+K = 2, Run (1,10,1): fitness => -60.71
+K = 2, Run (1,10,2): fitness => -60.71
+K = 2, Run (1,10,3): fitness => -60.71
+K = 2, Run (1,10,4): fitness => -60.71
+K = 2, Run (1,10,5): fitness => -60.71
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -61.28
+K = 2, Run (2,1,4): fitness => -61.12
+K = 2, Run (2,1,5): fitness => -61.00
+
+K = 2, Run (2,2,1): fitness => -61.48
+K = 2, Run (2,2,2): fitness => -61.30
+K = 2, Run (2,2,3): fitness => -61.12
+K = 2, Run (2,2,4): fitness => -61.00
+K = 2, Run (2,2,5): fitness => -61.00
+
+K = 2, Run (2,3,1): fitness => -61.21
+K = 2, Run (2,3,2): fitness => -61.05
+K = 2, Run (2,3,3): fitness => -61.00
+K = 2, Run (2,3,4): fitness => -61.00
+K = 2, Run (2,3,5): fitness => -61.00
+
+K = 2, Run (2,4,1): fitness => -61.00
+K = 2, Run (2,4,2): fitness => -61.00
+K = 2, Run (2,4,3): fitness => -61.00
+K = 2, Run (2,4,4): fitness => -61.00
+K = 2, Run (2,4,5): fitness => -61.00
+
+K = 2, Run (2,5,1): fitness => -61.00
+K = 2, Run (2,5,2): fitness => -61.00
+K = 2, Run (2,5,3): fitness => -61.00
+K = 2, Run (2,5,4): fitness => -61.00
+K = 2, Run (2,5,5): fitness => -61.00
+
+K = 2, Run (2,6,1): fitness => -61.00
+K = 2, Run (2,6,2): fitness => -61.00
+K = 2, Run (2,6,3): fitness => -61.00
+K = 2, Run (2,6,4): fitness => -61.00
+K = 2, Run (2,6,5): fitness => -61.00
+
+K = 2, Run (2,7,1): fitness => -61.00
+K = 2, Run (2,7,2): fitness => -61.00
+K = 2, Run (2,7,3): fitness => -61.00
+K = 2, Run (2,7,4): fitness => -61.00
+K = 2, Run (2,7,5): fitness => -61.00
+
+K = 2, Run (2,8,1): fitness => -61.00
+K = 2, Run (2,8,2): fitness => -61.00
+K = 2, Run (2,8,3): fitness => -61.00
+K = 2, Run (2,8,4): fitness => -61.00
+K = 2, Run (2,8,5): fitness => -61.00
+
+K = 2, Run (2,9,1): fitness => -61.00
+K = 2, Run (2,9,2): fitness => -61.00
+K = 2, Run (2,9,3): fitness => -61.00
+K = 2, Run (2,9,4): fitness => -61.00
+K = 2, Run (2,9,5): fitness => -61.00
+
+K = 2, Run (2,10,1): fitness => -61.00
+K = 2, Run (2,10,2): fitness => -61.00
+K = 2, Run (2,10,3): fitness => -61.00
+K = 2, Run (2,10,4): fitness => -61.00
+K = 2, Run (2,10,5): fitness => -61.00
+
+#-60.71
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -Inf
+K = 2, Run (1,1,4): fitness => -Inf
+K = 2, Run (1,1,5): fitness => -Inf
+
+K = 2, Run (1,2,1): fitness => -Inf
+K = 2, Run (1,2,2): fitness => -Inf
+K = 2, Run (1,2,3): fitness => -Inf
+K = 2, Run (1,2,4): fitness => -Inf
+K = 2, Run (1,2,5): fitness => -Inf
+
+K = 2, Run (1,3,1): fitness => -Inf
+K = 2, Run (1,3,2): fitness => -Inf
+K = 2, Run (1,3,3): fitness => -Inf
+K = 2, Run (1,3,4): fitness => -Inf
+K = 2, Run (1,3,5): fitness => -Inf
+
+K = 2, Run (1,4,1): fitness => -Inf
+K = 2, Run (1,4,2): fitness => -Inf
+K = 2, Run (1,4,3): fitness => -Inf
+K = 2, Run (1,4,4): fitness => -Inf
+K = 2, Run (1,4,5): fitness => -Inf
+
+K = 2, Run (1,5,1): fitness => -Inf
+K = 2, Run (1,5,2): fitness => -Inf
+K = 2, Run (1,5,3): fitness => -Inf
+K = 2, Run (1,5,4): fitness => -Inf
+K = 2, Run (1,5,5): fitness => -Inf
+
+K = 2, Run (1,6,1): fitness => -Inf
+K = 2, Run (1,6,2): fitness => -Inf
+K = 2, Run (1,6,3): fitness => -Inf
+K = 2, Run (1,6,4): fitness => -Inf
+K = 2, Run (1,6,5): fitness => -Inf
+
+K = 2, Run (1,7,1): fitness => -Inf
+K = 2, Run (1,7,2): fitness => -Inf
+K = 2, Run (1,7,3): fitness => -Inf
+K = 2, Run (1,7,4): fitness => -Inf
+K = 2, Run (1,7,5): fitness => -Inf
+
+K = 2, Run (1,8,1): fitness => -Inf
+K = 2, Run (1,8,2): fitness => -Inf
+K = 2, Run (1,8,3): fitness => -Inf
+K = 2, Run (1,8,4): fitness => -Inf
+K = 2, Run (1,8,5): fitness => -Inf
+
+K = 2, Run (1,9,1): fitness => -Inf
+K = 2, Run (1,9,2): fitness => -Inf
+K = 2, Run (1,9,3): fitness => -Inf
+K = 2, Run (1,9,4): fitness => -Inf
+K = 2, Run (1,9,5): fitness => -Inf
+
+K = 2, Run (1,10,1): fitness => -Inf
+K = 2, Run (1,10,2): fitness => -Inf
+K = 2, Run (1,10,3): fitness => -Inf
+K = 2, Run (1,10,4): fitness => -Inf
+K = 2, Run (1,10,5): fitness => -Inf
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -58.91
+K = 2, Run (2,1,3): fitness => -58.68
+K = 2, Run (2,1,4): fitness => -58.59
+K = 2, Run (2,1,5): fitness => -58.57
+
+K = 2, Run (2,2,1): fitness => -58.76
+K = 2, Run (2,2,2): fitness => -58.64
+K = 2, Run (2,2,3): fitness => -58.59
+K = 2, Run (2,2,4): fitness => -58.57
+K = 2, Run (2,2,5): fitness => -58.57
+
+K = 2, Run (2,3,1): fitness => -58.60
+K = 2, Run (2,3,2): fitness => -58.58
+K = 2, Run (2,3,3): fitness => -58.57
+K = 2, Run (2,3,4): fitness => -58.57
+K = 2, Run (2,3,5): fitness => -58.57
+
+K = 2, Run (2,4,1): fitness => -58.57
+K = 2, Run (2,4,2): fitness => -58.57
+K = 2, Run (2,4,3): fitness => -58.57
+K = 2, Run (2,4,4): fitness => -58.57
+K = 2, Run (2,4,5): fitness => -58.57
+
+K = 2, Run (2,5,1): fitness => -58.57
+K = 2, Run (2,5,2): fitness => -58.57
+K = 2, Run (2,5,3): fitness => -58.57
+K = 2, Run (2,5,4): fitness => -58.57
+K = 2, Run (2,5,5): fitness => -58.57
+
+K = 2, Run (2,6,1): fitness => -58.57
+K = 2, Run (2,6,2): fitness => -58.57
+K = 2, Run (2,6,3): fitness => -58.57
+K = 2, Run (2,6,4): fitness => -58.57
+K = 2, Run (2,6,5): fitness => -58.57
+
+K = 2, Run (2,7,1): fitness => -58.57
+K = 2, Run (2,7,2): fitness => -58.57
+K = 2, Run (2,7,3): fitness => -58.57
+K = 2, Run (2,7,4): fitness => -58.57
+K = 2, Run (2,7,5): fitness => -58.57
+
+K = 2, Run (2,8,1): fitness => -58.57
+K = 2, Run (2,8,2): fitness => -58.57
+K = 2, Run (2,8,3): fitness => -58.57
+K = 2, Run (2,8,4): fitness => -58.57
+K = 2, Run (2,8,5): fitness => -58.57
+
+K = 2, Run (2,9,1): fitness => -58.57
+K = 2, Run (2,9,2): fitness => -58.57
+K = 2, Run (2,9,3): fitness => -58.57
+K = 2, Run (2,9,4): fitness => -58.57
+K = 2, Run (2,9,5): fitness => -58.57
+
+K = 2, Run (2,10,1): fitness => -58.57
+K = 2, Run (2,10,2): fitness => -58.57
+K = 2, Run (2,10,3): fitness => -58.57
+K = 2, Run (2,10,4): fitness => -58.57
+K = 2, Run (2,10,5): fitness => -58.57
+
+#-58.57
+
+K = 2, Run (1,1,1): fitness => -61.14
+K = 2, Run (1,1,2): fitness => -60.66
+K = 2, Run (1,1,3): fitness => -60.20
+K = 2, Run (1,1,4): fitness => -60.14
+K = 2, Run (1,1,5): fitness => -60.10
+
+K = 2, Run (1,2,1): fitness => -60.27
+K = 2, Run (1,2,2): fitness => -60.20
+K = 2, Run (1,2,3): fitness => -60.14
+K = 2, Run (1,2,4): fitness => -60.10
+K = 2, Run (1,2,5): fitness => -60.10
+
+K = 2, Run (1,3,1): fitness => -60.16
+K = 2, Run (1,3,2): fitness => -60.12
+K = 2, Run (1,3,3): fitness => -60.10
+K = 2, Run (1,3,4): fitness => -60.10
+K = 2, Run (1,3,5): fitness => -60.10
+
+K = 2, Run (1,4,1): fitness => -60.10
+K = 2, Run (1,4,2): fitness => -60.10
+K = 2, Run (1,4,3): fitness => -60.10
+K = 2, Run (1,4,4): fitness => -60.10
+K = 2, Run (1,4,5): fitness => -60.10
+
+K = 2, Run (1,5,1): fitness => -60.10
+K = 2, Run (1,5,2): fitness => -60.10
+K = 2, Run (1,5,3): fitness => -60.10
+K = 2, Run (1,5,4): fitness => -60.10
+K = 2, Run (1,5,5): fitness => -60.10
+
+K = 2, Run (1,6,1): fitness => -60.10
+K = 2, Run (1,6,2): fitness => -60.10
+K = 2, Run (1,6,3): fitness => -60.10
+K = 2, Run (1,6,4): fitness => -60.10
+K = 2, Run (1,6,5): fitness => -60.10
+
+K = 2, Run (1,7,1): fitness => -60.10
+K = 2, Run (1,7,2): fitness => -60.10
+K = 2, Run (1,7,3): fitness => -60.10
+K = 2, Run (1,7,4): fitness => -60.10
+K = 2, Run (1,7,5): fitness => -60.10
+
+K = 2, Run (1,8,1): fitness => -60.10
+K = 2, Run (1,8,2): fitness => -60.10
+K = 2, Run (1,8,3): fitness => -60.10
+K = 2, Run (1,8,4): fitness => -60.10
+K = 2, Run (1,8,5): fitness => -60.10
+
+K = 2, Run (1,9,1): fitness => -60.10
+K = 2, Run (1,9,2): fitness => -60.10
+K = 2, Run (1,9,3): fitness => -60.10
+K = 2, Run (1,9,4): fitness => -60.10
+K = 2, Run (1,9,5): fitness => -60.10
+
+K = 2, Run (1,10,1): fitness => -60.10
+K = 2, Run (1,10,2): fitness => -60.10
+K = 2, Run (1,10,3): fitness => -60.10
+K = 2, Run (1,10,4): fitness => -60.10
+K = 2, Run (1,10,5): fitness => -60.10
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -61.28
+K = 2, Run (2,1,5): fitness => -61.08
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -61.28
+K = 2, Run (2,2,4): fitness => -61.08
+K = 2, Run (2,2,5): fitness => -61.08
+
+K = 2, Run (2,3,1): fitness => -61.42
+K = 2, Run (2,3,2): fitness => -61.17
+K = 2, Run (2,3,3): fitness => -61.08
+K = 2, Run (2,3,4): fitness => -61.08
+K = 2, Run (2,3,5): fitness => -61.08
+
+K = 2, Run (2,4,1): fitness => -61.08
+K = 2, Run (2,4,2): fitness => -61.08
+K = 2, Run (2,4,3): fitness => -61.08
+K = 2, Run (2,4,4): fitness => -61.08
+K = 2, Run (2,4,5): fitness => -61.08
+
+K = 2, Run (2,5,1): fitness => -61.08
+K = 2, Run (2,5,2): fitness => -61.08
+K = 2, Run (2,5,3): fitness => -61.08
+K = 2, Run (2,5,4): fitness => -61.08
+K = 2, Run (2,5,5): fitness => -61.08
+
+K = 2, Run (2,6,1): fitness => -61.08
+K = 2, Run (2,6,2): fitness => -61.08
+K = 2, Run (2,6,3): fitness => -61.08
+K = 2, Run (2,6,4): fitness => -61.08
+K = 2, Run (2,6,5): fitness => -61.08
+
+K = 2, Run (2,7,1): fitness => -61.08
+K = 2, Run (2,7,2): fitness => -61.08
+K = 2, Run (2,7,3): fitness => -61.08
+K = 2, Run (2,7,4): fitness => -61.08
+K = 2, Run (2,7,5): fitness => -61.08
+
+K = 2, Run (2,8,1): fitness => -61.08
+K = 2, Run (2,8,2): fitness => -61.08
+K = 2, Run (2,8,3): fitness => -61.08
+K = 2, Run (2,8,4): fitness => -61.08
+K = 2, Run (2,8,5): fitness => -61.08
+
+K = 2, Run (2,9,1): fitness => -61.08
+K = 2, Run (2,9,2): fitness => -61.08
+K = 2, Run (2,9,3): fitness => -61.08
+K = 2, Run (2,9,4): fitness => -61.08
+K = 2, Run (2,9,5): fitness => -61.08
+
+K = 2, Run (2,10,1): fitness => -61.08
+K = 2, Run (2,10,2): fitness => -61.08
+K = 2, Run (2,10,3): fitness => -61.08
+K = 2, Run (2,10,4): fitness => -61.08
+K = 2, Run (2,10,5): fitness => -61.08
+
+#-60.10
+
+K = 2, Run (1,1,1): fitness => -57.33
+K = 2, Run (1,1,2): fitness => -57.15
+K = 2, Run (1,1,3): fitness => -57.07
+K = 2, Run (1,1,4): fitness => -57.02
+K = 2, Run (1,1,5): fitness => -56.99
+
+K = 2, Run (1,2,1): fitness => -57.13
+K = 2, Run (1,2,2): fitness => -57.08
+K = 2, Run (1,2,3): fitness => -57.02
+K = 2, Run (1,2,4): fitness => -56.99
+K = 2, Run (1,2,5): fitness => -56.99
+
+K = 2, Run (1,3,1): fitness => -57.05
+K = 2, Run (1,3,2): fitness => -57.00
+K = 2, Run (1,3,3): fitness => -56.99
+K = 2, Run (1,3,4): fitness => -56.99
+K = 2, Run (1,3,5): fitness => -56.99
+
+K = 2, Run (1,4,1): fitness => -56.99
+K = 2, Run (1,4,2): fitness => -56.99
+K = 2, Run (1,4,3): fitness => -56.99
+K = 2, Run (1,4,4): fitness => -56.99
+K = 2, Run (1,4,5): fitness => -56.99
+
+K = 2, Run (1,5,1): fitness => -56.99
+K = 2, Run (1,5,2): fitness => -56.99
+K = 2, Run (1,5,3): fitness => -56.99
+K = 2, Run (1,5,4): fitness => -56.99
+K = 2, Run (1,5,5): fitness => -56.99
+
+K = 2, Run (1,6,1): fitness => -56.99
+K = 2, Run (1,6,2): fitness => -56.99
+K = 2, Run (1,6,3): fitness => -56.99
+K = 2, Run (1,6,4): fitness => -56.99
+K = 2, Run (1,6,5): fitness => -56.99
+
+K = 2, Run (1,7,1): fitness => -56.99
+K = 2, Run (1,7,2): fitness => -56.99
+K = 2, Run (1,7,3): fitness => -56.99
+K = 2, Run (1,7,4): fitness => -56.99
+K = 2, Run (1,7,5): fitness => -56.99
+
+K = 2, Run (1,8,1): fitness => -56.99
+K = 2, Run (1,8,2): fitness => -56.99
+K = 2, Run (1,8,3): fitness => -56.99
+K = 2, Run (1,8,4): fitness => -56.99
+K = 2, Run (1,8,5): fitness => -56.99
+
+K = 2, Run (1,9,1): fitness => -56.99
+K = 2, Run (1,9,2): fitness => -56.99
+K = 2, Run (1,9,3): fitness => -56.99
+K = 2, Run (1,9,4): fitness => -56.99
+K = 2, Run (1,9,5): fitness => -56.99
+
+K = 2, Run (1,10,1): fitness => -56.99
+K = 2, Run (1,10,2): fitness => -56.99
+K = 2, Run (1,10,3): fitness => -56.99
+K = 2, Run (1,10,4): fitness => -56.99
+K = 2, Run (1,10,5): fitness => -56.99
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -56.43
+K = 2, Run (2,1,4): fitness => -56.17
+K = 2, Run (2,1,5): fitness => -56.06
+
+K = 2, Run (2,2,1): fitness => -56.69
+K = 2, Run (2,2,2): fitness => -56.38
+K = 2, Run (2,2,3): fitness => -56.17
+K = 2, Run (2,2,4): fitness => -56.06
+K = 2, Run (2,2,5): fitness => -56.06
+
+K = 2, Run (2,3,1): fitness => -56.25
+K = 2, Run (2,3,2): fitness => -56.11
+K = 2, Run (2,3,3): fitness => -56.06
+K = 2, Run (2,3,4): fitness => -56.06
+K = 2, Run (2,3,5): fitness => -56.06
+
+K = 2, Run (2,4,1): fitness => -56.06
+K = 2, Run (2,4,2): fitness => -56.06
+K = 2, Run (2,4,3): fitness => -56.06
+K = 2, Run (2,4,4): fitness => -56.06
+K = 2, Run (2,4,5): fitness => -56.06
+
+K = 2, Run (2,5,1): fitness => -56.06
+K = 2, Run (2,5,2): fitness => -56.06
+K = 2, Run (2,5,3): fitness => -56.06
+K = 2, Run (2,5,4): fitness => -56.06
+K = 2, Run (2,5,5): fitness => -56.06
+
+K = 2, Run (2,6,1): fitness => -56.06
+K = 2, Run (2,6,2): fitness => -56.06
+K = 2, Run (2,6,3): fitness => -56.06
+K = 2, Run (2,6,4): fitness => -56.06
+K = 2, Run (2,6,5): fitness => -56.06
+
+K = 2, Run (2,7,1): fitness => -56.06
+K = 2, Run (2,7,2): fitness => -56.06
+K = 2, Run (2,7,3): fitness => -56.06
+K = 2, Run (2,7,4): fitness => -56.06
+K = 2, Run (2,7,5): fitness => -56.06
+
+K = 2, Run (2,8,1): fitness => -56.06
+K = 2, Run (2,8,2): fitness => -56.06
+K = 2, Run (2,8,3): fitness => -56.06
+K = 2, Run (2,8,4): fitness => -56.06
+K = 2, Run (2,8,5): fitness => -56.06
+
+K = 2, Run (2,9,1): fitness => -56.06
+K = 2, Run (2,9,2): fitness => -56.06
+K = 2, Run (2,9,3): fitness => -56.06
+K = 2, Run (2,9,4): fitness => -56.06
+K = 2, Run (2,9,5): fitness => -56.06
+
+K = 2, Run (2,10,1): fitness => -56.06
+K = 2, Run (2,10,2): fitness => -56.06
+K = 2, Run (2,10,3): fitness => -56.06
+K = 2, Run (2,10,4): fitness => -56.06
+K = 2, Run (2,10,5): fitness => -56.06
+
+#-56.06
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -54.39
+K = 2, Run (1,1,4): fitness => -54.27
+K = 2, Run (1,1,5): fitness => -54.18
+
+K = 2, Run (1,2,1): fitness => -54.54
+K = 2, Run (1,2,2): fitness => -54.39
+K = 2, Run (1,2,3): fitness => -54.27
+K = 2, Run (1,2,4): fitness => -54.18
+K = 2, Run (1,2,5): fitness => -54.18
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -60.69
+K = 2, Run (1,1,4): fitness => -60.61
+K = 2, Run (1,1,5): fitness => -60.58
+
+K = 2, Run (1,2,1): fitness => -60.77
+K = 2, Run (1,2,2): fitness => -60.67
+K = 2, Run (1,2,3): fitness => -60.61
+K = 2, Run (1,2,4): fitness => -60.58
+K = 2, Run (1,2,5): fitness => -60.58
+
+K = 2, Run (1,3,1): fitness => -60.63
+K = 2, Run (1,3,2): fitness => -60.60
+K = 2, Run (1,3,3): fitness => -60.58
+K = 2, Run (1,3,4): fitness => -60.58
+K = 2, Run (1,3,5): fitness => -60.58
+
+K = 2, Run (1,4,1): fitness => -60.58
+K = 2, Run (1,4,2): fitness => -60.58
+K = 2, Run (1,4,3): fitness => -60.58
+K = 2, Run (1,4,4): fitness => -60.58
+K = 2, Run (1,4,5): fitness => -60.58
+
+K = 2, Run (1,5,1): fitness => -60.58
+K = 2, Run (1,5,2): fitness => -60.58
+K = 2, Run (1,5,3): fitness => -60.58
+K = 2, Run (1,5,4): fitness => -60.58
+K = 2, Run (1,5,5): fitness => -60.58
+
+K = 2, Run (1,6,1): fitness => -60.58
+K = 2, Run (1,6,2): fitness => -60.58
+K = 2, Run (1,6,3): fitness => -60.58
+K = 2, Run (1,6,4): fitness => -60.58
+K = 2, Run (1,6,5): fitness => -60.58
+
+K = 2, Run (1,7,1): fitness => -60.58
+K = 2, Run (1,7,2): fitness => -60.58
+K = 2, Run (1,7,3): fitness => -60.58
+K = 2, Run (1,7,4): fitness => -60.58
+K = 2, Run (1,7,5): fitness => -60.58
+
+K = 2, Run (1,8,1): fitness => -60.58
+K = 2, Run (1,8,2): fitness => -60.58
+K = 2, Run (1,8,3): fitness => -60.58
+K = 2, Run (1,8,4): fitness => -60.58
+K = 2, Run (1,8,5): fitness => -60.58
+
+K = 2, Run (1,9,1): fitness => -60.58
+K = 2, Run (1,9,2): fitness => -60.58
+K = 2, Run (1,9,3): fitness => -60.58
+K = 2, Run (1,9,4): fitness => -60.58
+K = 2, Run (1,9,5): fitness => -60.58
+
+K = 2, Run (1,10,1): fitness => -60.58
+K = 2, Run (1,10,2): fitness => -60.58
+K = 2, Run (1,10,3): fitness => -60.58
+K = 2, Run (1,10,4): fitness => -60.58
+K = 2, Run (1,10,5): fitness => -60.58
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -61.68
+K = 2, Run (2,1,3): fitness => -61.31
+K = 2, Run (2,1,4): fitness => -61.19
+K = 2, Run (2,1,5): fitness => -61.18
+
+K = 2, Run (2,2,1): fitness => -61.40
+K = 2, Run (2,2,2): fitness => -61.25
+K = 2, Run (2,2,3): fitness => -61.19
+K = 2, Run (2,2,4): fitness => -61.18
+K = 2, Run (2,2,5): fitness => -61.18
+
+K = 2, Run (2,3,1): fitness => -61.19
+K = 2, Run (2,3,2): fitness => -61.19
+K = 2, Run (2,3,3): fitness => -61.18
+K = 2, Run (2,3,4): fitness => -61.18
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -59.21
+K = 2, Run (1,1,4): fitness => -59.05
+K = 2, Run (1,1,5): fitness => -59.00
+
+K = 2, Run (1,2,1): fitness => -59.36
+K = 2, Run (1,2,2): fitness => -59.17
+K = 2, Run (1,2,3): fitness => -59.05
+K = 2, Run (1,2,4): fitness => -59.00
+K = 2, Run (1,2,5): fitness => -59.00
+
+K = 2, Run (1,3,1): fitness => -59.08
+K = 2, Run (1,3,2): fitness => -59.02
+K = 2, Run (1,3,3): fitness => -59.00
+K = 2, Run (1,3,4): fitness => -59.00
+K = 2, Run (1,3,5): fitness => -59.00
+
+K = 2, Run (1,4,1): fitness => -59.00
+K = 2, Run (1,4,2): fitness => -59.00
+K = 2, Run (1,4,3): fitness => -59.00
+K = 2, Run (1,4,4): fitness => -59.00
+K = 2, Run (1,4,5): fitness => -59.00
+
+K = 2, Run (1,5,1): fitness => -59.00
+K = 2, Run (1,5,2): fitness => -59.00
+K = 2, Run (1,5,3): fitness => -59.00
+K = 2, Run (1,5,4): fitness => -59.00
+K = 2, Run (1,5,5): fitness => -59.00
+
+K = 2, Run (1,6,1): fitness => -59.00
+K = 2, Run (1,6,2): fitness => -59.00
+K = 2, Run (1,6,3): fitness => -59.00
+K = 2, Run (1,6,4): fitness => -59.00
+K = 2, Run (1,6,5): fitness => -59.00
+
+K = 2, Run (1,7,1): fitness => -59.00
+K = 2, Run (1,7,2): fitness => -59.00
+K = 2, Run (1,7,3): fitness => -59.00
+K = 2, Run (1,7,4): fitness => -59.00
+K = 2, Run (1,7,5): fitness => -59.00
+
+K = 2, Run (1,8,1): fitness => -59.00
+K = 2, Run (1,8,2): fitness => -59.00
+K = 2, Run (1,8,3): fitness => -59.00
+K = 2, Run (1,8,4): fitness => -59.00
+K = 2, Run (1,8,5): fitness => -59.00
+
+K = 2, Run (1,9,1): fitness => -59.00
+K = 2, Run (1,9,2): fitness => -59.00
+K = 2, Run (1,9,3): fitness => -59.00
+K = 2, Run (1,9,4): fitness => -59.00
+K = 2, Run (1,9,5): fitness => -59.00
+
+K = 2, Run (1,10,1): fitness => -59.00
+K = 2, Run (1,10,2): fitness => -59.00
+K = 2, Run (1,10,3): fitness => -59.00
+K = 2, Run (1,10,4): fitness => -59.00
+K = 2, Run (1,10,5): fitness => -59.00
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -Inf
+K = 2, Run (2,1,5): fitness => -Inf
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -Inf
+K = 2, Run (2,2,4): fitness => -Inf
+K = 2, Run (2,2,5): fitness => -Inf
+
+K = 2, Run (2,3,1): fitness => -Inf
+K = 2, Run (2,3,2): fitness => -Inf
+K = 2, Run (2,3,3): fitness => -Inf
+K = 2, Run (2,3,4): fitness => -Inf
+K = 2, Run (2,3,5): fitness => -Inf
+
+K = 2, Run (2,4,1): fitness => -Inf
+K = 2, Run (2,4,2): fitness => -Inf
+K = 2, Run (2,4,3): fitness => -Inf
+K = 2, Run (2,4,4): fitness => -Inf
+K = 2, Run (2,4,5): fitness => -Inf
+
+K = 2, Run (2,5,1): fitness => -Inf
+K = 2, Run (2,5,2): fitness => -Inf
+K = 2, Run (2,5,3): fitness => -Inf
+K = 2, Run (2,5,4): fitness => -Inf
+K = 2, Run (2,5,5): fitness => -Inf
+
+K = 2, Run (2,6,1): fitness => -Inf
+K = 2, Run (2,6,2): fitness => -Inf
+K = 2, Run (2,6,3): fitness => -Inf
+K = 2, Run (2,6,4): fitness => -Inf
+K = 2, Run (2,6,5): fitness => -Inf
+
+K = 2, Run (2,7,1): fitness => -Inf
+K = 2, Run (2,7,2): fitness => -Inf
+K = 2, Run (2,7,3): fitness => -Inf
+K = 2, Run (2,7,4): fitness => -Inf
+K = 2, Run (2,7,5): fitness => -Inf
+
+K = 2, Run (2,8,1): fitness => -Inf
+K = 2, Run (2,8,2): fitness => -Inf
+K = 2, Run (2,8,3): fitness => -Inf
+K = 2, Run (2,8,4): fitness => -Inf
+K = 2, Run (2,8,5): fitness => -Inf
+
+K = 2, Run (2,9,1): fitness => -Inf
+K = 2, Run (2,9,2): fitness => -Inf
+K = 2, Run (2,9,3): fitness => -Inf
+K = 2, Run (2,9,4): fitness => -Inf
+K = 2, Run (2,9,5): fitness => -Inf
+
+K = 2, Run (2,10,1): fitness => -Inf
+K = 2, Run (2,10,2): fitness => -Inf
+K = 2, Run (2,10,3): fitness => -Inf
+K = 2, Run (2,10,4): fitness => -Inf
+K = 2, Run (2,10,5): fitness => -Inf
+
+#-59.00
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -Inf
+K = 2, Run (1,1,4): fitness => -Inf
+K = 2, Run (1,1,5): fitness => -59.56
+
+K = 2, Run (1,2,1): fitness => -Inf
+K = 2, Run (1,2,2): fitness => -Inf
+K = 2, Run (1,2,3): fitness => -Inf
+K = 2, Run (1,2,4): fitness => -59.56
+K = 2, Run (1,2,5): fitness => -59.56
+
+K = 2, Run (1,3,1): fitness => -Inf
+K = 2, Run (1,3,2): fitness => -Inf
+K = 2, Run (1,3,3): fitness => -59.56
+K = 2, Run (1,3,4): fitness => -59.56
+K = 2, Run (1,3,5): fitness => -59.56
+
+K = 2, Run (1,4,1): fitness => -59.56
+K = 2, Run (1,4,2): fitness => -59.56
+K = 2, Run (1,4,3): fitness => -59.56
+K = 2, Run (1,4,4): fitness => -59.56
+K = 2, Run (1,4,5): fitness => -59.56
+
+K = 2, Run (1,5,1): fitness => -59.56
+K = 2, Run (1,5,2): fitness => -59.56
+K = 2, Run (1,5,3): fitness => -59.56
+K = 2, Run (1,5,4): fitness => -59.56
+K = 2, Run (1,5,5): fitness => -59.56
+
+K = 2, Run (1,6,1): fitness => -59.56
+K = 2, Run (1,6,2): fitness => -59.56
+K = 2, Run (1,6,3): fitness => -59.56
+K = 2, Run (1,6,4): fitness => -59.56
+K = 2, Run (1,6,5): fitness => -59.56
+
+K = 2, Run (1,7,1): fitness => -59.56
+K = 2, Run (1,7,2): fitness => -59.56
+K = 2, Run (1,7,3): fitness => -59.56
+K = 2, Run (1,7,4): fitness => -59.56
+K = 2, Run (1,7,5): fitness => -59.56
+
+K = 2, Run (1,8,1): fitness => -59.56
+K = 2, Run (1,8,2): fitness => -59.56
+K = 2, Run (1,8,3): fitness => -59.56
+K = 2, Run (1,8,4): fitness => -59.56
+K = 2, Run (1,8,5): fitness => -59.56
+
+K = 2, Run (1,9,1): fitness => -59.56
+K = 2, Run (1,9,2): fitness => -59.56
+K = 2, Run (1,9,3): fitness => -59.56
+K = 2, Run (1,9,4): fitness => -59.56
+K = 2, Run (1,9,5): fitness => -59.56
+
+K = 2, Run (1,10,1): fitness => -59.56
+K = 2, Run (1,10,2): fitness => -59.56
+K = 2, Run (1,10,3): fitness => -59.56
+K = 2, Run (1,10,4): fitness => -59.56
+K = 2, Run (1,10,5): fitness => -59.56
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -Inf
+K = 2, Run (2,1,4): fitness => -Inf
+K = 2, Run (2,1,5): fitness => -56.85
+
+K = 2, Run (2,2,1): fitness => -Inf
+K = 2, Run (2,2,2): fitness => -Inf
+K = 2, Run (2,2,3): fitness => -Inf
+K = 2, Run (2,2,4): fitness => -56.85
+K = 2, Run (2,2,5): fitness => -56.85
+
+K = 2, Run (2,3,1): fitness => -Inf
+K = 2, Run (2,3,2): fitness => -Inf
+K = 2, Run (2,3,3): fitness => -56.85
+K = 2, Run (2,3,4): fitness => -56.85
+K = 2, Run (2,3,5): fitness => -56.85
+
+K = 2, Run (2,4,1): fitness => -56.85
+K = 2, Run (2,4,2): fitness => -56.85
+K = 2, Run (2,4,3): fitness => -56.85
+K = 2, Run (2,4,4): fitness => -56.85
+K = 2, Run (2,4,5): fitness => -56.85
+
+K = 2, Run (2,5,1): fitness => -56.85
+K = 2, Run (2,5,2): fitness => -56.85
+K = 2, Run (2,5,3): fitness => -56.85
+K = 2, Run (2,5,4): fitness => -56.85
+K = 2, Run (2,5,5): fitness => -56.85
+
+K = 2, Run (2,6,1): fitness => -56.85
+K = 2, Run (2,6,2): fitness => -56.85
+K = 2, Run (2,6,3): fitness => -56.85
+K = 2, Run (2,6,4): fitness => -56.85
+K = 2, Run (2,6,5): fitness => -56.85
+
+K = 2, Run (2,7,1): fitness => -56.85
+K = 2, Run (2,7,2): fitness => -56.85
+K = 2, Run (2,7,3): fitness => -56.85
+K = 2, Run (2,7,4): fitness => -56.85
+K = 2, Run (2,7,5): fitness => -56.85
+
+K = 2, Run (2,8,1): fitness => -56.85
+K = 2, Run (2,8,2): fitness => -56.85
+K = 2, Run (2,8,3): fitness => -56.85
+K = 2, Run (2,8,4): fitness => -56.85
+K = 2, Run (2,8,5): fitness => -56.85
+
+K = 2, Run (2,9,1): fitness => -56.85
+K = 2, Run (2,9,2): fitness => -56.85
+K = 2, Run (2,9,3): fitness => -56.85
+K = 2, Run (2,9,4): fitness => -56.85
+K = 2, Run (2,9,5): fitness => -56.85
+
+K = 2, Run (2,10,1): fitness => -56.85
+K = 2, Run (2,10,2): fitness => -56.85
+K = 2, Run (2,10,3): fitness => -56.85
+K = 2, Run (2,10,4): fitness => -56.85
+K = 2, Run (2,10,5): fitness => -56.85
+
+#-56.85
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -64.75
+K = 2, Run (1,1,4): fitness => -63.78
+K = 2, Run (1,1,5): fitness => -63.44
+
+K = 2, Run (1,2,1): fitness => -65.68
+K = 2, Run (1,2,2): fitness => -64.52
+K = 2, Run (1,2,3): fitness => -63.78
+K = 2, Run (1,2,4): fitness => -63.44
+K = 2, Run (1,2,5): fitness => -63.44
+
+K = 2, Run (1,3,1): fitness => -64.03
+K = 2, Run (1,3,2): fitness => -63.60
+K = 2, Run (1,3,3): fitness => -63.44
+K = 2, Run (1,3,4): fitness => -63.44
+K = 2, Run (1,3,5): fitness => -63.44
+
+K = 2, Run (1,4,1): fitness => -63.44
+K = 2, Run (1,4,2): fitness => -63.44
+K = 2, Run (1,4,3): fitness => -63.44
+K = 2, Run (1,4,4): fitness => -63.44
+K = 2, Run (1,4,5): fitness => -63.44
+
+K = 2, Run (1,5,1): fitness => -63.44
+K = 2, Run (1,5,2): fitness => -63.44
+K = 2, Run (1,5,3): fitness => -63.44
+K = 2, Run (1,5,4): fitness => -63.44
+K = 2, Run (1,5,5): fitness => -63.44
+
+K = 2, Run (1,6,1): fitness => -63.44
+K = 2, Run (1,6,2): fitness => -63.44
+K = 2, Run (1,6,3): fitness => -63.44
+K = 2, Run (1,6,4): fitness => -63.44
+K = 2, Run (1,6,5): fitness => -63.44
+
+K = 2, Run (1,7,1): fitness => -63.44
+K = 2, Run (1,7,2): fitness => -63.44
+K = 2, Run (1,7,3): fitness => -63.44
+K = 2, Run (1,7,4): fitness => -63.44
+K = 2, Run (1,7,5): fitness => -63.44
+
+K = 2, Run (1,8,1): fitness => -63.44
+K = 2, Run (1,8,2): fitness => -63.44
+K = 2, Run (1,8,3): fitness => -63.44
+K = 2, Run (1,8,4): fitness => -63.44
+K = 2, Run (1,8,5): fitness => -63.44
+
+K = 2, Run (1,9,1): fitness => -63.44
+K = 2, Run (1,9,2): fitness => -63.44
+K = 2, Run (1,9,3): fitness => -63.44
+K = 2, Run (1,9,4): fitness => -63.44
+K = 2, Run (1,9,5): fitness => -63.44
+
+K = 2, Run (1,10,1): fitness => -63.44
+K = 2, Run (1,10,2): fitness => -63.44
+K = 2, Run (1,10,3): fitness => -63.44
+K = 2, Run (1,10,4): fitness => -63.44
+K = 2, Run (1,10,5): fitness => -63.44
+
+K = 2, Run (2,1,1): fitness => -Inf
+K = 2, Run (2,1,2): fitness => -Inf
+K = 2, Run (2,1,3): fitness => -63.00
+K = 2, Run (2,1,4): fitness => -62.79
+K = 2, Run (2,1,5): fitness => -62.74
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -60.08
+K = 2, Run (1,1,4): fitness => -59.50
+K = 2, Run (1,1,5): fitness => -59.23
+
+K = 2, Run (1,2,1): fitness => -60.69
+K = 2, Run (1,2,2): fitness => -60.00
+K = 2, Run (1,2,3): fitness => -59.50
+K = 2, Run (1,2,4): fitness => -59.23
+K = 2, Run (1,2,5): fitness => -59.23
+
+K = 2, Run (1,3,1): fitness => -59.69
+K = 2, Run (1,3,2): fitness => -59.36
+K = 2, Run (1,3,3): fitness => -59.23
+K = 2, Run (1,3,4): fitness => -59.23
+K = 2, Run (1,3,5): fitness => -59.23
+
+K = 2, Run (1,4,1): fitness => -59.23
+K = 2, Run (1,4,2): fitness => -59.23
+K = 2, Run (1,4,3): fitness => -59.23
+K = 2, Run (1,4,4): fitness => -59.23
+K = 2, Run (1,4,5): fitness => -59.23
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -Inf
+K = 2, Run (1,1,4): fitness => -Inf
+K = 2, Run (1,1,5): fitness => -60.59
+
+K = 2, Run (1,2,1): fitness => -Inf
+K = 2, Run (1,2,2): fitness => -Inf
+K = 2, Run (1,2,3): fitness => -Inf
+K = 2, Run (1,2,4): fitness => -60.59
+K = 2, Run (1,2,5): fitness => -60.59
+
+K = 2, Run (1,3,1): fitness => -Inf
+K = 2, Run (1,3,2): fitness => -Inf
+K = 2, Run (1,3,3): fitness => -60.59
+K = 2, Run (1,3,4): fitness => -60.59
+K = 2, Run (1,3,5): fitness => -60.59
+
+K = 2, Run (1,4,1): fitness => -60.59
+K = 2, Run (1,4,2): fitness => -60.59
+K = 2, Run (1,4,3): fitness => -60.59
+K = 2, Run (1,4,4): fitness => -60.59
+K = 2, Run (1,4,5): fitness => -60.59
+
+K = 2, Run (1,5,1): fitness => -60.59
+K = 2, Run (1,5,2): fitness => -60.59
+K = 2, Run (1,5,3): fitness => -60.59
+K = 2, Run (1,5,4): fitness => -60.59
+K = 2, Run (1,5,5): fitness => -60.59
+
+K = 2, Run (1,6,1): fitness => -60.59
+K = 2, Run (1,6,2): fitness => -60.59
+K = 2, Run (1,6,3): fitness => -60.59
+K = 2, Run (1,6,4): fitness => -60.59
+K = 2, Run (1,6,5): fitness => -60.59
+
+K = 2, Run (1,7,1): fitness => -60.59
+K = 2, Run (1,7,2): fitness => -60.59
+K = 2, Run (1,7,3): fitness => -60.59
+K = 2, Run (1,7,4): fitness => -60.59
+K = 2, Run (1,7,5): fitness => -60.59
+
+K = 2, Run (1,8,1): fitness => -60.59
+K = 2, Run (1,8,2): fitness => -60.59
+K = 2, Run (1,8,3): fitness => -60.59
+K = 2, Run (1,8,4): fitness => -60.59
+K = 2, Run (1,8,5): fitness => -60.59
+
+K = 2, Run (1,9,1): fitness => -60.59
+K = 2, Run (1,9,2): fitness => -60.59
+K = 2, Run (1,9,3): fitness => -60.59
+K = 2, Run (1,9,4): fitness => -60.59
+K = 2, Run (1,9,5): fitness => -60.59
+
+K = 2, Run (1,10,1): fitness => -60.59
+K = 2, Run (1,10,2): fitness => -60.59
+K = 2, Run (1,10,3): fitness => -60.59
+K = 2, Run (1,10,4): fitness => -60.59
+K = 2, Run (1,10,5): fitness => -60.59
+
+K = 2, Run (2,1,1): fitness => -60.22
+K = 2, Run (2,1,2): fitness => -59.89
+K = 2, Run (2,1,3): fitness => -59.61
+K = 2, Run (2,1,4): fitness => -59.42
+K = 2, Run (2,1,5): fitness => -59.30
+
+K = 2, Run (2,2,1): fitness => -59.82
+K = 2, Run (2,2,2): fitness => -59.61
+K = 2, Run (2,2,3): fitness => -59.42
+K = 2, Run (2,2,4): fitness => -59.30
+K = 2, Run (2,2,5): fitness => -59.30
+
+K = 2, Run (2,3,1): fitness => -59.51
+K = 2, Run (2,3,2): fitness => -59.36
+K = 2, Run (2,3,3): fitness => -59.30
+K = 2, Run (2,3,4): fitness => -59.30
+K = 2, Run (2,3,5): fitness => -59.30
+
+K = 2, Run (2,4,1): fitness => -59.30
+K = 2, Run (2,4,2): fitness => -59.30
+K = 2, Run (2,4,3): fitness => -59.30
+K = 2, Run (2,4,4): fitness => -59.30
+K = 2, Run (2,4,5): fitness => -59.30
+
+K = 2, Run (2,5,1): fitness => -59.30
+K = 2, Run (2,5,2): fitness => -59.30
+K = 2, Run (2,5,3): fitness => -59.30
+K = 2, Run (2,5,4): fitness => -59.30
+K = 2, Run (2,5,5): fitness => -59.30
+
+K = 2, Run (2,6,1): fitness => -59.30
+K = 2, Run (2,6,2): fitness => -59.30
+K = 2, Run (2,6,3): fitness => -59.30
+K = 2, Run (2,6,4): fitness => -59.30
+K = 2, Run (2,6,5): fitness => -59.30
+
+K = 2, Run (2,7,1): fitness => -59.30
+K = 2, Run (2,7,2): fitness => -59.30
+K = 2, Run (2,7,3): fitness => -59.30
+K = 2, Run (2,7,4): fitness => -59.30
+K = 2, Run (2,7,5): fitness => -59.30
+
+K = 2, Run (2,8,1): fitness => -59.30
+K = 2, Run (2,8,2): fitness => -59.30
+K = 2, Run (2,8,3): fitness => -59.30
+K = 2, Run (2,8,4): fitness => -59.30
+K = 2, Run (2,8,5): fitness => -59.30
+
+K = 2, Run (2,9,1): fitness => -59.30
+K = 2, Run (2,9,2): fitness => -59.30
+K = 2, Run (2,9,3): fitness => -59.30
+K = 2, Run (2,9,4): fitness => -59.30
+K = 2, Run (2,9,5): fitness => -59.30
+
+K = 2, Run (2,10,1): fitness => -59.30
+K = 2, Run (2,10,2): fitness => -59.30
+K = 2, Run (2,10,3): fitness => -59.30
+K = 2, Run (2,10,4): fitness => -59.30
+K = 2, Run (2,10,5): fitness => -59.30
+
+#-59.30
+
+K = 2, Run (1,1,1): fitness => -Inf
+K = 2, Run (1,1,2): fitness => -Inf
+K = 2, Run (1,1,3): fitness => -Inf
+K = 2, Run (1,1,4): fitness => -57.26
+K = 2, Run (1,1,5): fitness => -57.07
