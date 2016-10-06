@@ -9,6 +9,6 @@
 
 cd $PBS_O_WORKDIR
 touch "filename"
-echo `pwd` 
+ 
 # CALLS PERMUTE_RUNS.SH SCRIPT 
-#./permute_runs.sh
+./permute_runs.sh
