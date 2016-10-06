@@ -8,6 +8,7 @@
 #PBS -m ae
 
 cd $PBS_O_WORKDIR
-echo `pwd`
+touch "filename"
+echo `pwd` 
 # CALLS PERMUTE_RUNS.SH SCRIPT 
 #./permute_runs.sh
