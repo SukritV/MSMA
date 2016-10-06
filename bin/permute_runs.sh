@@ -23,8 +23,9 @@
 
 
 
-run_array=(50 100 250 500 750 1000)
-'
+run_array=(5)
+# 100 250 500 750 1000)
+
 # CONTINUOUS & DISCRETE MIXED
 for ((i=2;i<=2;i++))
 do 
@@ -37,14 +38,14 @@ do
 		done
 	done
 done
-'
+
 
 # DISCRETE ONLY
-for ((i=3;i<=3;i++))
+for ((i=2;i<=2;i++))
 do 
 	let k=$i-1
 	for l in "${run_array[@]}"
 	do 
-		echo "./run_1000.sh $i $k 1 0 $l 1"
+		./run_1000.sh $i $k 1 0 $l 1
 	done
 done
