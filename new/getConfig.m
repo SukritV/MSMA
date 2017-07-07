@@ -17,7 +17,7 @@ function config = getConfig(index,num_discrete,num_continuous,num_interaction)
 	% can generate N random numbers in the interval (a,b) with r = a + (b-a).*rand(N,1)
 	% config1.beta = -3 + 6 * rand(config1.ncols,1); % between U(-3,3) 
 	% FOR DISCRETE config1.beta = -1 + 2 * randi([0 1],config1.ncols,1); % either -1 or +1
-	% config1.beta = -3 + 6 * randi([0 1],config1.ncols,1); % between -3 or +3 % FOR DISCRETE
+	% config1.beta = round(-3 + 6 * rand(config1.ncols,1)); % FOR DISCRETE
 	config1.beta = -3 + 6 * rand(config1.ncols,1); % between -3 or +3 % FOR CONTINUOUS 
 
 	config1.lb = ones(config1.ndisc + config1.ncont,1) * -1;
@@ -45,7 +45,8 @@ function config = getConfig(index,num_discrete,num_continuous,num_interaction)
 	% more configs here, one per experiment
 	% define the config2, config3, etc here
 	config2 = config1
-	config2.beta = config1.beta = -3 + 6 * randi([0 1],config1.ncols,1); % between -3 or +3 % FOR DISCRETE
+	% config2.ndisc = config2.ndisc + config2.ncont 
+	config2.beta = round(-3 + 6 * rand(config2.ncols,1)); % between -3 or +3 % FOR DISCRETE
 	configs(2,1) = config2
     %{
 	for i=1:length(configs)

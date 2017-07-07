@@ -13,19 +13,8 @@
 	do
 		echo K = $1, Run = $j
 		cd ../new/
-		# DISCRETE & CONTINUOUS
-		if [ $6 -eq 0 ]
-		then
-	    	(time octave msma.m $1 $2 $3 $4 $6) 2>&1 | tee -a ../logs/dumpMSMA-K$1-D$2-C$3-I$4-R$5.txt 
-			printf "\n\n"
-		fi
-
-		# PURE DISCRETE
-		if [ $6 -eq 1 ]
-		then
-			(time octave msma.m $1 $2 $3 $4 $6) 2>&1 | tee -a ../logs/dumpMSMA-K$1-D$1-C0-I$4-R$5.txt 
-			printf "\n\n"
-		fi
+	    (time octave msma.m $1 $2 $3 $4 $6) 2>&1 | tee -a ../logs/dumpMSMA-K$1-D$2-C$3-I$4-R$5.txt 
+		printf "\n\n"
 	done
 #done
 

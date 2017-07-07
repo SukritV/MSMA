@@ -1,8 +1,8 @@
-# extracts D-optimality values & run-times from each file
+# extracts D-optimality values & run-times from each file with 1000 runs
 
 C = 0 
 D = 0
-K = [3]#,4,8]
+K = [2,3,4,8]#,4,8]
 k = 0 
 doptimal_min = 0
 doptimal_max = -999
@@ -35,7 +35,7 @@ for i in K :
 	print("Opening files:")
 	for j in xrange(0,i+1) :
 		    k = i - j
-		    file = "../logs/K" + str(i) + "/dumpMSMA-K" + str(i) + "-D" + str(j) + "-C" + str(k) + "-I0.txt"
+		    file = "../logs/K" + str(i) + "/dumpMSMA-K" + str(i) + "-D" + str(j) + "-C" + str(k) + "-I0-R100.txt"
 		    print(file)
 		    if os.path.isfile(file) :
 			    with open(file,"r") as f :
